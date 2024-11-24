@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: Ov23li9I5ehcNg9spxWh
   clientSecret: bc84c10ea419d9a3f20dcef28bd262c9b7c01b88
-  repo: wyl001.github.io
+  repo: wyl001.github.io/wyl-blog/
   owner: wyl001
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
