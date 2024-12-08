@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在AI盛行的时代下，AI真的会取代程序员吗？
+title: "在AI盛行的时代下，AI真的会取代程序员吗？"
 date: 2024-11-24
 tags: [github, blog]
 author: lin.w
