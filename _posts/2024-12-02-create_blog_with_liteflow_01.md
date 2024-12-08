@@ -9,3 +9,8 @@ author: lin.w
 直接上图
 ![](../images/liteflow01/qianyan.png)
 总结一下就是:LiteFlow为解耦逻辑而生，为编排而生.
+## 在SpringBoot中使用，引入依赖：
+```xml
+
+
+```
